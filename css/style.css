@@ -36,7 +36,7 @@
 
 
 .about {
-
+    margin:1em;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -83,6 +83,7 @@
 }
 
 .experience {
+    margin:1em;
     justify-content: center;
     width: 100%;
     padding-top: 20px;
@@ -92,6 +93,7 @@
 }
 
 .projects {
+    margin:1em;
     float: center;
     width: 80%;
     padding-top: 20px;
@@ -101,6 +103,7 @@
 }
 
 .contact {
+    margin:1em;
     float: center;
     width: 80%;
     padding-top: 20px;
