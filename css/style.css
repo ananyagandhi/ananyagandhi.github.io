@@ -122,6 +122,34 @@ img {
     padding-bottom: 10%;
 }
 
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:visited {
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.linkedin {
+    color: #007bb6;
+}
+
+.github {
+    color: rgb(0, 0, 0);
+}
+
+.email {
+    color: rgb(0, 0, 0);
+}
+
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 700px) {
     .heading {
